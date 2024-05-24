@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fixed-top{
+   
+    margin-left: 10px;
+    margin-right: 10px;
+} 
+.top{
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color:aqua;
+}
+.navbar{
+    color:aqua;
+}
